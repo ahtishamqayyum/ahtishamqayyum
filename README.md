@@ -1,14 +1,14 @@
-<!-- Ahtisham Qayyum — text-only hero (no images at top) + ocean body below. -->
+<!-- Ahtisham Qayyum — README profile. Note: GitHub README mein JS / asli 0→N number counter nahi chal sakta; animation = typing SVG + capsule-render + SVG widgets. -->
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ecfdf5">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffe4e6">
 <tr>
-<td align="center" bgcolor="#ecfdf5">
+<td align="center" bgcolor="#ffe4e6">
 
-<table width="98%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ecfdf5">
+<table width="98%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffe4e6">
 <tr>
-<td bgcolor="#ecfdf5" align="center" height="10">
+<td bgcolor="#ffe4e6" align="center" height="10">
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#14b8a6" height="6"></td></tr></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#fb7185" height="6"></td></tr></table>
 
 </td>
 </tr>
@@ -25,23 +25,23 @@
 
 <table cellspacing="0" cellpadding="0" border="0" align="center">
 <tr>
-<td bgcolor="#0f766e" align="center" valign="middle" height="46">&nbsp;&nbsp;<font color="#ecfdf5" face="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><b>⚛ ROLE</b></font>&nbsp;&nbsp;</td>
-<td bgcolor="#134e4a" align="center" valign="middle" height="46">&nbsp;&nbsp;<font color="#ecfdf5" face="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><b>SENIOR FULL STACK &amp; LEAD</b></font>&nbsp;&nbsp;</td>
+<td bgcolor="#be123c" align="center" valign="middle" height="46">&nbsp;&nbsp;<font color="#fff1f2" face="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><b>⚛ ROLE</b></font>&nbsp;&nbsp;</td>
+<td bgcolor="#4c0519" align="center" valign="middle" height="46">&nbsp;&nbsp;<font color="#ffe4e6" face="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><b>SENIOR FULL STACK &amp; LEAD</b></font>&nbsp;&nbsp;</td>
 </tr>
 </table>
 
 <br/>
 
-<p><font color="#134e4a" face="system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif"><b>Full Stack · Vue &amp; Laravel · REST APIs · Cloud · CI/CD</b></font></p>
+<p><font color="#881337" face="system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif"><b>Full Stack · Vue &amp; Laravel · REST APIs · Cloud · CI/CD</b></font></p>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#d1fae5">
-<tr><td bgcolor="#d1fae5" align="center">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#fecdd3">
+<tr><td bgcolor="#fecdd3" align="center">
 
 <table width="100%" cellspacing="0" cellpadding="18" border="0" bgcolor="#ffffff">
 <tr><td bgcolor="#ffffff" align="center">
 
-<font color="#134e4a" face="system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif"><b>Focus</b></font><br/><br/>
-<font color="#115e59" face="Georgia, Times New Roman, serif"><i>Build reliable products with clean architecture, measurable outcomes, and a team-first mindset.</i></font>
+<font color="#9f1239" face="system-ui, Segoe UI, Roboto, Helvetica, Arial, sans-serif"><b>Focus</b></font><br/><br/>
+<font color="#881337" face="Georgia, Times New Roman, serif"><i>Build reliable products with clean architecture, measurable outcomes, and a team-first mindset.</i></font>
 
 </td></tr>
 </table>
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1100&color=0D9488&center=true&vCenter=true&width=720&repeat=true&lines=Shipping+end-to-end+features;Strong+APIs+%2B+thoughtful+UX;Always+learning%2C+always+shipping"/>
+<img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=BE123C&center=true&vCenter=true&width=760&repeat=true&speed=12&lines=Start+from+0+%E2%80%94+ship+small+wins;Grow+numbers%3A+0+%E2%86%92+users+%2B+revenue+%2B+trust;Strong+APIs+%2B+thoughtful+UX;Always+learning%2C+always+shipping"/>
 
 </div>
 
@@ -66,9 +66,9 @@
 </td>
 </tr>
 <tr>
-<td bgcolor="#ecfdf5" align="center" height="12">
+<td bgcolor="#ffe4e6" align="center" height="12">
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#0f172a" height="8"></td></tr></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#4c0519" height="8"></td></tr></table>
 
 </td>
 </tr>
@@ -84,64 +84,64 @@
 
 <table width="100%" cellspacing="10" cellpadding="14" border="0">
 <tr align="center">
-<td bgcolor="#0f172a" width="20%"><a href="https://ahtishamqayyum.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0f172a"/><br/><sub><font color="#94a3b8">site</font></sub></a></td>
-<td bgcolor="#0f172a" width="20%"><a href="https://github.com/ahtishamqayyum" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-818cf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/><br/><sub><font color="#94a3b8">@ahtishamqayyum</font></sub></a></td>
-<td bgcolor="#0f172a" width="20%"><a href="https://www.linkedin.com/in/ahtishamqayyum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/><br/><sub><font color="#94a3b8">profile</font></sub></a></td>
-<td bgcolor="#0f172a" width="20%"><a href="mailto:ahtisham@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/><br/><sub><font color="#94a3b8">inbox</font></sub></a></td>
-<td bgcolor="#0f172a" width="20%"><a href="https://wa.me/92XXXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0f172a"/><br/><sub><font color="#94a3b8">message</font></sub></a></td>
+<td bgcolor="#3f0d1f" width="20%"><a href="https://ahtishamqayyum.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-fbbf24?style=for-the-badge&logo=google-chrome&logoColor=1a0a12&labelColor=fb7185"/><br/><sub><font color="#fda4af">site</font></sub></a></td>
+<td bgcolor="#3f0d1f" width="20%"><a href="https://github.com/ahtishamqayyum" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-f472b6?style=for-the-badge&logo=github&logoColor=white&labelColor=3f0d1f"/><br/><sub><font color="#fda4af">@ahtishamqayyum</font></sub></a></td>
+<td bgcolor="#3f0d1f" width="20%"><a href="https://www.linkedin.com/in/ahtishamqayyum/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3f0d1f"/><br/><sub><font color="#fda4af">profile</font></sub></a></td>
+<td bgcolor="#3f0d1f" width="20%"><a href="mailto:ahtisham@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3f0d1f"/><br/><sub><font color="#fda4af">inbox</font></sub></a></td>
+<td bgcolor="#3f0d1f" width="20%"><a href="https://wa.me/92XXXXXXXXXX" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=3f0d1f"/><br/><sub><font color="#fda4af">message</font></sub></a></td>
 </tr>
 </table>
 
-<div align="center"><img width="92%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:6366f1,100:22d3ee&height=6&animation=twinkling"/></div>
+<div align="center"><img width="92%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:fb7185,50:fbbf24,100:881337&height=8&animation=twinkling"/></div>
 
 <br/>
 
 <table width="100%" cellspacing="12" cellpadding="0" border="0">
 <tr valign="top">
-<td width="34%" bgcolor="#020617">
+<td width="34%" bgcolor="#1a0a12">
 
 ### About me
 
-<font color="#bae6fd">🔹 Strong ownership on features &amp; releases</font><br/>
-<font color="#bae6fd">🔹 Vue / Nuxt · Laravel · Node APIs</font><br/>
-<font color="#bae6fd">🔹 SQL + NoSQL data modeling</font><br/>
-<font color="#bae6fd">🔹 Dockerized workflows &amp; GitHub Actions</font><br/>
-<font color="#bae6fd">🔹 Clear docs &amp; pragmatic tests</font><br/><br/>
+<font color="#fecdd3">🔹 Strong ownership on features &amp; releases</font><br/>
+<font color="#fecdd3">🔹 Vue / Nuxt · Laravel · Node APIs</font><br/>
+<font color="#fecdd3">🔹 SQL + NoSQL data modeling</font><br/>
+<font color="#fecdd3">🔹 Dockerized workflows &amp; GitHub Actions</font><br/>
+<font color="#fecdd3">🔹 Clear docs &amp; pragmatic tests</font><br/><br/>
 
 ### What I do
 
-<font color="#bae6fd">▸ Full stack web applications</font><br/>
-<font color="#bae6fd">▸ REST / GraphQL integrations</font><br/>
-<font color="#bae6fd">▸ Dashboards &amp; internal tools</font><br/>
-<font color="#bae6fd">▸ Performance &amp; refactors</font><br/><br/>
+<font color="#fecdd3">▸ Full stack web applications</font><br/>
+<font color="#fecdd3">▸ REST / GraphQL integrations</font><br/>
+<font color="#fecdd3">▸ Dashboards &amp; internal tools</font><br/>
+<font color="#fecdd3">▸ Performance &amp; refactors</font><br/><br/>
 
 ### GitHub pulse
 
-<img src="https://img.shields.io/github/followers/ahtishamqayyum?label=Followers&style=flat-square&logo=github&color=0f172a&labelColor=020617&logoColor=38bdf8"/>
-<img src="https://img.shields.io/github/stars/ahtishamqayyum?label=Stars&style=flat-square&logo=github&color=0f172a&labelColor=020617&logoColor=a5b4fc"/><br/><br/>
-<font color="#94a3b8"><sub>Live counts update from your public GitHub.</sub></font>
+<img src="https://img.shields.io/github/followers/ahtishamqayyum?label=Followers&style=flat-square&logo=github&color=3f0d1f&labelColor=1a0a12&logoColor=fb7185"/>
+<img src="https://img.shields.io/github/stars/ahtishamqayyum?label=Stars&style=flat-square&logo=github&color=3f0d1f&labelColor=1a0a12&logoColor=fbbf24"/><br/><br/>
+<font color="#fda4af"><sub>Live counts update from your public GitHub.</sub></font>
 
 </td>
-<td width="66%" bgcolor="#020617">
+<td width="66%" bgcolor="#1a0a12">
 
 ### Tech stack
 
 <table width="100%" cellspacing="6" cellpadding="10" border="0">
 <tr>
-<td bgcolor="#0f172a" width="18%"><font color="#38bdf8"><b>Frontend</b></font></td>
-<td bgcolor="#0f172a"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&perline=12"/></td>
+<td bgcolor="#3f0d1f" width="18%"><font color="#fb7185"><b>Frontend</b></font></td>
+<td bgcolor="#3f0d1f"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&perline=12"/></td>
 </tr>
 <tr>
-<td bgcolor="#0f172a"><font color="#38bdf8"><b>Backend</b></font></td>
-<td bgcolor="#0f172a"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi&perline=12"/></td>
+<td bgcolor="#3f0d1f"><font color="#fb7185"><b>Backend</b></font></td>
+<td bgcolor="#3f0d1f"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,fastapi&perline=12"/></td>
 </tr>
 <tr>
-<td bgcolor="#0f172a"><font color="#38bdf8"><b>Database</b></font></td>
-<td bgcolor="#0f172a"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&perline=12"/></td>
+<td bgcolor="#3f0d1f"><font color="#fb7185"><b>Database</b></font></td>
+<td bgcolor="#3f0d1f"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&perline=12"/></td>
 </tr>
 <tr>
-<td bgcolor="#0f172a"><font color="#38bdf8"><b>Tools</b></font></td>
-<td bgcolor="#0f172a"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=12"/></td>
+<td bgcolor="#3f0d1f"><font color="#fb7185"><b>Tools</b></font></td>
+<td bgcolor="#3f0d1f"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&perline=12"/></td>
 </tr>
 </table>
 
@@ -149,16 +149,24 @@
 
 ### Professional skills
 
+<div align="center">
+
+<img alt="Skill momentum" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=700&color=FBBF24&center=true&vCenter=true&width=640&repeat=true&speed=14&lines=Levels%3A+0%25+%E2%86%92+practice+%E2%86%92+mastery;Same+curve+for+APIs%2C+UI%2C+and+leadership;Small+daily+gains+compound"/>
+
+</div>
+
+<br/>
+
 <table width="100%" cellspacing="8" cellpadding="10" border="0">
 <tr>
-<td bgcolor="#0f172a" align="center" width="33%"><b><font color="#f1f5f9">Web Development</font></b><br/><img src="https://img.shields.io/badge/level-93%25-38bdf8?style=flat-square"/><br/><img src="https://geps.dev/progress/93?successColor=38bdf8&emptyColor=020617"/></td>
-<td bgcolor="#0f172a" align="center" width="33%"><b><font color="#f1f5f9">API Development</font></b><br/><img src="https://img.shields.io/badge/level-95%25-818cf8?style=flat-square"/><br/><img src="https://geps.dev/progress/95?successColor=818cf8&emptyColor=020617"/></td>
-<td bgcolor="#0f172a" align="center" width="33%"><b><font color="#f1f5f9">AI &amp; Automation</font></b><br/><img src="https://img.shields.io/badge/level-90%25-2dd4bf?style=flat-square"/><br/><img src="https://geps.dev/progress/90?successColor=2dd4bf&emptyColor=020617"/></td>
+<td bgcolor="#3f0d1f" align="center" width="33%"><b><font color="#fff1f2">Web Development</font></b><br/><img src="https://img.shields.io/badge/level-93%25-fb7185?style=flat-square"/><br/><img src="https://geps.dev/progress/93?successColor=fb7185&emptyColor=1a0a12"/></td>
+<td bgcolor="#3f0d1f" align="center" width="33%"><b><font color="#fff1f2">API Development</font></b><br/><img src="https://img.shields.io/badge/level-95%25-fbbf24?style=flat-square"/><br/><img src="https://geps.dev/progress/95?successColor=fbbf24&emptyColor=1a0a12"/></td>
+<td bgcolor="#3f0d1f" align="center" width="33%"><b><font color="#fff1f2">AI &amp; Automation</font></b><br/><img src="https://img.shields.io/badge/level-90%25-f472b6?style=flat-square"/><br/><img src="https://geps.dev/progress/90?successColor=f472b6&emptyColor=1a0a12"/></td>
 </tr>
 <tr>
-<td bgcolor="#0f172a" align="center"><b><font color="#f1f5f9">SaaS &amp; Products</font></b><br/><img src="https://img.shields.io/badge/level-92%25-a5b4fc?style=flat-square"/><br/><img src="https://geps.dev/progress/92?successColor=a5b4fc&emptyColor=020617"/></td>
-<td bgcolor="#0f172a" align="center"><b><font color="#f1f5f9">Database Design</font></b><br/><img src="https://img.shields.io/badge/level-91%25-22d3ee?style=flat-square"/><br/><img src="https://geps.dev/progress/91?successColor=22d3ee&emptyColor=020617"/></td>
-<td bgcolor="#0f172a" align="center"><b><font color="#f1f5f9">Team Leadership</font></b><br/><img src="https://img.shields.io/badge/level-94%25-34d399?style=flat-square"/><br/><img src="https://geps.dev/progress/94?successColor=34d399&emptyColor=020617"/></td>
+<td bgcolor="#3f0d1f" align="center"><b><font color="#fff1f2">SaaS &amp; Products</font></b><br/><img src="https://img.shields.io/badge/level-92%25-e879f9?style=flat-square"/><br/><img src="https://geps.dev/progress/92?successColor=e879f9&emptyColor=1a0a12"/></td>
+<td bgcolor="#3f0d1f" align="center"><b><font color="#fff1f2">Database Design</font></b><br/><img src="https://img.shields.io/badge/level-91%25-38bdf8?style=flat-square"/><br/><img src="https://geps.dev/progress/91?successColor=38bdf8&emptyColor=1a0a12"/></td>
+<td bgcolor="#3f0d1f" align="center"><b><font color="#fff1f2">Team Leadership</font></b><br/><img src="https://img.shields.io/badge/level-94%25-fbbf24?style=flat-square"/><br/><img src="https://geps.dev/progress/94?successColor=fbbf24&emptyColor=1a0a12"/></td>
 </tr>
 </table>
 
@@ -168,73 +176,80 @@
 
 <br/>
 
-<!-- README par asli scroll-JS nahi chal sakta; yeh strip “neeche wale zone” ka halka visual shift hai. -->
-<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#020617">
-<tr><td bgcolor="#ecfdf5" align="center">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#1a0a12">
+<tr><td bgcolor="#ffe4e6" align="center">
 <br/>
-<font color="#166534">━━━</font>&nbsp;<font color="#134e4a"><b>Analytics zone</b></font>&nbsp;<font color="#166534">━━━</font><br/>
-<font color="#64748b"><sub>Mint hero ↑ · yahan se ocean-style cards + <b>live SVG</b> stats (GitHub-Readme-Stats mirror)</sub></font>
+<font color="#9f1239">━━━</font>&nbsp;<font color="#be123c"><b>Analytics zone</b></font>&nbsp;<font color="#9f1239">━━━</font><br/>
+<font color="#881337"><sub>Rose hero ↑ · yahan <b>burgundy dashboard</b> + live SVG stats</sub></font>
 <br/><br/>
+
+<div align="center">
+
+<img alt="Counter vibe" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=800&color=FB7185&center=true&vCenter=true&width=720&repeat=true&speed=16&lines=Contributions%3A+think+0+%E2%86%92+1+%E2%86%92+n;Streaks%3A+reset+%E2%86%92+show+up+%E2%86%92+compound;Impact+that+scales+from+zero+to+one+to+many"/>
+
+</div>
+
+<br/>
 </td></tr>
 </table>
 
 ## Stats row
 
-<table width="100%" cellspacing="12" cellpadding="6" border="0" bgcolor="#020617">
+<table width="100%" cellspacing="12" cellpadding="6" border="0" bgcolor="#1a0a12">
 <tr>
-<td width="33%" align="center" valign="top" bgcolor="#020617">
+<td width="33%" align="center" valign="top" bgcolor="#1a0a12">
 
-<img height="195" width="420" alt="GitHub stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ahtishamqayyum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200"/>
-
-</td>
-<td width="34%" align="center" valign="top" bgcolor="#020617">
-
-<img height="195" width="380" alt="Top languages" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ahtishamqayyum&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200"/>
+<img height="195" width="420" alt="GitHub stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ahtishamqayyum&show_icons=true&hide_border=true&theme=radical&bg_color=1a0a12&title_color=fb7185&icon_color=fbbf24&text_color=fce7f3&include_all_commits=true&cache_seconds=7200"/>
 
 </td>
-<td width="33%" align="center" valign="top" bgcolor="#020617">
+<td width="34%" align="center" valign="top" bgcolor="#1a0a12">
 
-<img height="195" width="420" alt="Streak" src="https://streak-stats.demolab.com/?user=ahtishamqayyum&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="195" width="380" alt="Top languages" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ahtishamqayyum&layout=compact&hide_border=true&theme=radical&bg_color=1a0a12&title_color=fb7185&text_color=fce7f3&langs_count=8&cache_seconds=7200"/>
+
+</td>
+<td width="33%" align="center" valign="top" bgcolor="#1a0a12">
+
+<img height="195" width="420" alt="Streak" src="https://streak-stats.demolab.com/?user=ahtishamqayyum&theme=radical&hide_border=true&background=1A0A12&ring=FB7185&fire=FBBF24&currStreakLabel=FCE7F3&sideLabels=FDA4AF&dates=881337&cache_seconds=86400"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ahtishamqayyum&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6&margin-h=6"/>
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=ahtishamqayyum&theme=radical&no-frame=true&row=1&column=7&margin-w=6&margin-h=6"/>
 </p>
 
-<div align="center"><img width="92%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:4f46e5,100:38bdf8&height=6&animation=fadeIn"/></div>
+<div align="center"><img width="92%" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=0:fbbf24,50:fb7185,100:4c0519&height=8&animation=fadeIn"/></div>
 
 <br/>
 
 ## Contribution graph
 
 <p align="center">
-  <img width="98%" alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ahtishamqayyum&bg_color=020617&color=e2e8f0&line=38bdf8&point=a5b4fc&area=true&hide_border=true"/>
+  <img width="98%" alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ahtishamqayyum&bg_color=1a0a12&color=fce7f3&line=fb7185&point=fbbf24&area=true&hide_border=true"/>
 </p>
 
 <br/>
 
 <div align="center">
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,45:0e7490,100:020617&height=150&section=footer&text=Thanks+for+visiting&fontColor=f0f9ff&fontSize=36&fontAlignY=68&desc=Let%27s+build+something+great+together&descAlignY=86&animation=fadeIn&reversal=true"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:fb7185,40:fbbf24,80:4c0519,100:1a0a12&height=150&section=footer&text=Thanks+for+visiting&fontColor=fff1f2&fontSize=36&fontAlignY=68&desc=From+zero+to+something+meaningful+%E2%80%94+together&descAlignY=86&animation=twinkling&reversal=true"/>
 
-<img alt="Outro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=2000&color=7DD3FC&center=true&vCenter=true&width=900&repeat=true&lines=Ocean+state+of+mind+%C2%B7+Ship+with+confidence"/>
+<img alt="Outro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1600&color=FBBF24&center=true&vCenter=true&width=900&repeat=true&speed=11&lines=Rose+engine+%C2%B7+Gold+shipping+%C2%B7+Deep+focus;Numbers+tell+a+story+%E2%80%94+start+simple%2C+scale+smart"/>
 
-<img alt="Views" src="https://komarev.com/ghpvc/?username=ahtishamqayyum&style=for-the-badge&color=0ea5e9&labelColor=020617&label=PROFILE+VIEWS"/>
+<img alt="Views" src="https://komarev.com/ghpvc/?username=ahtishamqayyum&style=for-the-badge&color=fb7185&labelColor=1a0a12&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- ========== Design B — sunset add-on (below main ocean block) ========== -->
+<!-- ========== Design B — sunset add-on (below main rose block) ========== -->
 
 <div align="center">
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,40:ea580c,100:fbbf24&height=100&text=Design%20B%20%E2%80%94%20Sunset%20Card&fontColor=fffbeb&fontSize=34&fontAlignY=42&animation=twinkling&fontAlign=50"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,40:ea580c,100:fbbf24&height=100&text=Design%20B%20%E2%80%94%20Sunset%20Card&fontColor=fffbeb&fontSize=34&fontAlignY=42&animation=scaleIn&fontAlign=50"/>
 
-<img alt="Addon typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1300&color=FBBF24&center=true&vCenter=true&width=920&repeat=true&lines=Alternate+layout+%E2%80%94+same+profile%2C+fresh+skin;Principles+%C2%B7+Roadmap+%C2%B7+Toolkit+add-ons"/>
+<img alt="Addon typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FBBF24&center=true&vCenter=true&width=920&repeat=true&speed=13&lines=Add-on+lane%3A+0+%E2%86%92+experiments+%E2%86%92+production+hardening;Principles+%C2%B7+Roadmap+%C2%B7+Toolkit+extras"/>
 
 </div>
 
@@ -282,16 +297,16 @@
 <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#292524">
 <tr><td align="center" bgcolor="#292524"><br/>
 <font color="#fcd34d"><b>Add-on · compact metrics</b></font><br/>
-<font color="#a8a29e"><sub>Live <b>SVG</b> cards (<code>image/svg+xml</code>) · mirror: <code>github-readme-stats-ten-gilt.vercel.app</code> — official stats app is often 503.</sub></font>
+<font color="#a8a29e"><sub>Live <b>SVG</b> · mirror <code>github-readme-stats-ten-gilt.vercel.app</code></sub></font>
 <br/><br/></td></tr>
 <tr><td bgcolor="#1c1917" align="center">
 <table cellspacing="20" cellpadding="0" border="0" align="center">
 <tr>
 <td align="center" valign="top" bgcolor="#1c1917">
-  <img height="175" width="400" alt="Compact stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ahtishamqayyum&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=7200"/>
+  <img height="175" width="400" alt="Compact stats" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=ahtishamqayyum&show_icons=true&hide_border=true&theme=radical&bg_color=1c1917&title_color=fbbf24&icon_color=fb7185&text_color=fef3c7&cache_seconds=7200"/>
 </td>
 <td align="center" valign="top" bgcolor="#1c1917">
-  <img height="175" width="400" alt="Compact langs" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ahtishamqayyum&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=7200"/>
+  <img height="175" width="400" alt="Compact langs" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ahtishamqayyum&layout=compact&hide_border=true&theme=radical&bg_color=1c1917&title_color=fbbf24&text_color=fef3c7&langs_count=8&cache_seconds=7200"/>
 </td>
 </tr>
 </table>
@@ -316,6 +331,6 @@
 
 <div align="center">
 
-<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=soft&height=110&section=footer&color=0:fbbf24,50:ea580c,100:1c1917&text=End+of+add-on+block&fontColor=fffbeb&fontSize=28&fontAlignY=72&animation=fadeIn&reversal=true"/>
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=soft&height=110&section=footer&color=0:fbbf24,50:ea580c,100:1c1917&text=End+of+add-on+block&fontColor=fffbeb&fontSize=28&fontAlignY=72&animation=twinkling&reversal=true"/>
 
 </div>
